@@ -2,3 +2,4 @@ monday
 tuesday
 wednesday-A1
 thursdaty-B1
+friday-A2
