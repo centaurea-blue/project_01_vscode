@@ -4,4 +4,5 @@ three
 4
 five
 6
-sieben
+seven / sieben
+
