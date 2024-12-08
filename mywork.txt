@@ -1,3 +1,4 @@
 monday
 tuesday
 wednesday-A1
+thursdaty-B1
